@@ -20,5 +20,3 @@ val2 = int(input("Entrez une valeur: "))
 val3 = int(input("Entrez une valeur: "))
 
 print("Vos valeur", val1, val2, val3, sep=" -> ", end=" Wow!")
-
-
